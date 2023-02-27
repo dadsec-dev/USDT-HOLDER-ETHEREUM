@@ -1,4 +1,4 @@
-const axios = require('axios');
+import axios from 'axios';
 
 async function main() {
   const tokenAddress = '0xdac17f958d2ee523a2206206994597c13d831ec7'; // USDT ERC20 contract address
